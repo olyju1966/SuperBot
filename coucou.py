@@ -19,8 +19,8 @@ from discord.utils import get
 
 client = commands.Bot(
     command_prefix='/',
-    description="Bot de olyju1966",
-    owner_ids=(551134188695191563, 611886333232676889, 796905945229033522, 681974688062242850)
+    description="Bot de ",
+    owner_ids=()#id des owner
 )
 
 @client.event
